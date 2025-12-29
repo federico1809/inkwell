@@ -1,22 +1,22 @@
 # Inkwell
 
-**Autor:** Federico Ceballos Torres  
-**Descripción:** Repositorio para publicar novelas, cuentos y ensayos políticos y filosóficos. Presenta la estructura del proyecto, las licencias aplicables y cómo citar las obras.
+**Author:** Federico Ceballos Torres  
+**Description:** Repository for publishing novels, short stories and political/philosophical essays. This repo stores chapters, versions and working notes. Each content type has its own licensing policy.
 
-## Estructura principal
-- `/novels/<titulo>/chapter-01.md` — capítulos en Markdown.  
-- `/fiction` — relatos cortos (Copyright © 2026 Federico Ceballos Torres. All Rights Reserved).  
-- `/philosophy` y `/essays` — ensayos bajo **CC BY‑NC‑ND 4.0**.  
-- `LICENSE.md` — política general; pueden existir `LICENSE-ESSAYS.md` o `LICENSE-FICTION.md` en carpetas específicas.
+## Main structure
+- `/novels/<title>/chapter-01.md` — chapters in Markdown.  
+- `/fiction` — short stories (Copyright © 2026 Federico Ceballos Torres. All Rights Reserved).  
+- `/philosophy` and `/essays` — essays under **Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 (CC BY‑NC‑ND 4.0)**.  
+- `LICENSE.md` — overall licensing policy; folder-specific license files may exist (`LICENSE-ESSAYS.md`, `LICENSE-FICTION.md`).
 
-## Licencias (resumen)
-- **Ensayos y análisis:** CC BY‑NC‑ND 4.0.  
-- **Ficción:** Copyright © 2026 Federico Ceballos Torres. All Rights Reserved.
+## Licenses (summary)
+- **Essays and analysis:** CC BY‑NC‑ND 4.0.  
+- **Fiction:** Copyright © 2026 Federico Ceballos Torres. All Rights Reserved.
 
-## Cómo citar
-Ejemplo: `Federico Ceballos Torres, "Título", Inkwell (GitHub), capítulo 3, 2026.`
+## Useful links
+- **Technical documentation and workflow:** See [CONTRIBUTING.md](./CONTRIBUTING.md)  
+- **Full license text:** See [LICENSE.md](./LICENSE.md)  
+- **Contact for permissions:** [federico.ct@gmail.com](mailto:federico.ct@gmail.com)
 
-## Enlaces útiles
-- **Documentación técnica y flujo de trabajo:** Ver [CONTRIBUTING.md](./CONTRIBUTING.md)
-- **Licencia detallada:** Ver [LICENSE.md](./LICENSE.md)
-- **Contacto para permisos:** [federico_ct@gmail.com](mailto:federico_ct@gmail.com)
+## How to cite
+Example: `Federico Ceballos Torres, "Title", Inkwell (GitHub), chapter 3, 2026.`
