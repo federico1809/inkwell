@@ -1,9 +1,8 @@
 ---
-**Licencia:** Este ensayo está licenciado bajo [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-**Autor:** Federico Ceballos Torres
-
-**Fecha:** Enero 2026
+license: "Este ensayo está licenciado bajo Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
+license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+author: "Federico Ceballos Torres"
+date: "Enero 2026"
 ---
 
 # Intervención a Venezuela: El marco de la incompatibilidad de presencias entre EE.UU. y Rusia
@@ -35,6 +34,3 @@ La administración Trump (con sus asesores en política exterior) entienden que 
 ## Conclusión
 
 Entonces, uno puede decir que en este marco, la intervención en Venezuela está vinculada con una relación de poderes en conflicto que es *anterior* y de una *envergadura superior* a la intervención misma. No se la puede analizar ni interpretar fuera de la geopolítica histórica que la contiene. Siendo así, **Venezuela no define el conflicto entre poderes, pero sí lo hace visible**.
-
-Federico Ceballos Torres
-Politólogo

@@ -1,9 +1,8 @@
 ---
-**Licencia:** Este ensayo está licenciado bajo [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-**Autor:** Federico Ceballos Torres
-
-**Fecha:** Enero 2026
+license: "Este ensayo está licenciado bajo Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"
+license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+author: "Federico Ceballos Torres"
+date: "Enero 2026"
 ---
 
 # Intervention in Venezuela: The Framework of Incompatibility of Presences between the U.S. and Russia
