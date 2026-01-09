@@ -53,8 +53,6 @@ Entre las cajas de transporte y los cables enrollados, Aisha y Marco compartiero
 
 Marco asintió, pasándose la mano por el cabello revuelto. Su transformación era la más evidente: el hombre que buscaba dominar el "ruido" ahora encontraba consuelo en él. Habían dejado de ser meros observadores para convertirse en nodos de una red de afectos que incluía tanto a sus compañeros como a la propia llanura. El amor y la ciencia se habían entrelazado de tal modo que ya era imposible distinguir dónde terminaba el rigor y dónde empezaba la ternura. En esa vulnerabilidad compartida, el equipo encontró su verdadera fuerza. No eran solo científicos desmontando un laboratorio; eran guardianes preparándose para habitar el mundo con una mirada nueva, una que asume que el misterio es el aire que permite a la razón seguir respirando.
 
-# CAPÍTULO FINAL — EL UMBRAL
-
 ### VII. La herencia de las preguntas
 
 A medida que el sol ganaba altura, disolviendo las últimas brumas que se aferraban a los bajos de la meseta, Nanda se alejó unos pasos del murmullo tranquilo del campamento. Se situó en el mismo borde donde, meses atrás, había sentido por primera vez que la tierra dejaba de ser un objeto de estudio para convertirse en un interlocutor. Desde allí, la curvatura del cielo parecía más vasta que nunca, un domo de cristal cobalto que no se retiraba ante la presencia humana, sino que la contenía con una paciencia milenaria.
