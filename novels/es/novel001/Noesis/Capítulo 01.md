@@ -23,7 +23,7 @@ Por dentro, era un **palimpsesto de silicio, cables y deseo**.
 
 Las superficies conservaban el espectro térmico de las huellas dactilares durante varios minutos, como restos fósiles de una civilización que ya solo sabía tocar a través de intermediarios. El contacto directo había sido sustituido por interfaces; la experiencia, por traducciones.
 
-María Fernanda —Nanda para el mundo; Nanda para sí misma cuando la soledad del litoral le permitía desprenderse de sus títulos de Doctora en Física y Ciencias Ambientales— habitaba esa penumbra con la inmovilidad atenta de una esfinge. Sintió la vibración háptica en la muñeca: un latido artificial emitido por el implante de monitoreo que sincronizaba su pulso con la frecuencia basal de la mesa reactiva.
+María Fernanda —Nanda para el mundo; Nanda para sí misma cuando la soledad del Litoral le permitía desprenderse de sus títulos de Doctora en Física y Ciencias Ambientales— habitaba esa penumbra con la inmovilidad atenta de una esfinge. Sintió la vibración háptica en la muñeca: un latido artificial emitido por el implante de monitoreo que sincronizaba su pulso con la frecuencia basal de la mesa reactiva.
 
 No era una intrusión.  
 Era una **simbiosis discreta**.
@@ -132,7 +132,7 @@ La línea se activó y su voz respondió desde el taller del cinturón biofluvia
 
 —Ahora —dijo Nanda—. Traé tus filtros de fase. Los que no tienen vergüenza de la sombra.
 
-Al salir del laboratorio, el aire del litoral la recibió con el frío húmedo de una revelación. La neblina se deshilachaba sobre los pastizales, y por un instante creyó ver una distorsión en la luz: no una mancha, sino una presencia reconociéndola.
+Al salir del laboratorio, el aire del Litoral la recibió con el frío húmedo de una revelación. La neblina se deshilachaba sobre los pastizales, y por un instante creyó ver una distorsión en la luz: no una mancha, sino una presencia reconociéndola.
 
 Un herbívoro cruzó la bruma cerca de ella. Sus huellas brillaron brevemente con un fulgor metálico antes de que el barro —hambriento de certidumbres— las devorara.
 

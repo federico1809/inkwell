@@ -27,7 +27,7 @@ Existe una ley tácita en la ciencia de campo: cuando una anomalía deja de ser 
 ## I. La cartografía de las insistencias
 
 En la consola principal, **ARGOS** no había descansado.  
-Durante la noche, el sistema había procesado capas y capas de datos hasta generar algo que ya no podía llamarse mapa. Lo que desplegó ante Nanda fue una **cartografía de insistencias**: una red de puntos palpitantes superpuesta al relieve digital del litoral.
+Durante la noche, el sistema había procesado capas y capas de datos hasta generar algo que ya no podía llamarse mapa. Lo que desplegó ante Nanda fue una **cartografía de insistencias**: una red de puntos palpitantes superpuesta al relieve digital del Litoral.
 
 Días atrás, aquellas señales parecían destellos aislados, errores de calibración, ruido estadístico. Ahora no. Ahora mostraban coherencia. Primero como gotas dispersas. Luego como trazos. Finalmente como **estructura**.
 

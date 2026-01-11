@@ -13,9 +13,9 @@ language: "es"
 > *«Hay cosas que solo existen mientras no intentamos medirlas.»*  
 > — **Anónimo / Archivo de campo**
 
-La carpa de campo no era una estructura: era un organismo fatigado. Se pegaba al suelo del litoral como una piel transpirada, tensada por vientos indecisos que entraban y salían sin pedir permiso. El barro, espeso y oscuro, no se limitaba a manchar las botas: las retenía, como si el suelo ensayara un derecho antiguo sobre los cuerpos que lo pisaban. Dentro, el aire era una mezcla densa de resina húmeda, humo de leña y mate recalentado, un olor que no se respiraba con los pulmones sino con la memoria.
+La carpa de campo no era una estructura: era un organismo fatigado. Se pegaba al suelo del Litoral como una piel transpirada, tensada por vientos indecisos que entraban y salían sin pedir permiso. El barro, espeso y oscuro, no se limitaba a manchar las botas: las retenía, como si el suelo ensayara un derecho antiguo sobre los cuerpos que lo pisaban. Dentro, el aire era una mezcla densa de resina húmeda, humo de leña y mate recalentado, un olor que no se respiraba con los pulmones sino con la memoria.
 
-Aquello no se parecía en nada a los laboratorios donde Nanda se había formado. No había líneas limpias ni superficies blancas. Era ciencia con callos: cables reforzados con cinta aislante, sensores colgados de piolas de nylon, pantallas protegidas con bolsas plásticas. El litoral no pedía elegancia; pedía aguante. Y esa exigencia física comenzaba a filtrarse también en las decisiones.
+Aquello no se parecía en nada a los laboratorios donde Nanda se había formado. No había líneas limpias ni superficies blancas. Era ciencia con callos: cables reforzados con cinta aislante, sensores colgados de piolas de nylon, pantallas protegidas con bolsas plásticas. El Litoral no pedía elegancia; pedía aguante. Y esa exigencia física comenzaba a filtrarse también en las decisiones.
 
 ### I. El Latido del Resonador
 

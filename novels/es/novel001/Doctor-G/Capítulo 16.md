@@ -8,7 +8,7 @@ copyright: "© 2026 Federico Ceballos Torres. All Rights Reserved."
 language: "es"
 ---
 
-# CAPÍTULO 16 — INTERACCIÓN MÍNIMA (PARTE 1 DE 2)
+# CAPÍTULO 16 — INTERACCIÓN MÍNIMA
 
 > *«Nada es tan terrible como la posibilidad de que lo que crees saber sea solamente un espejismo.»* > — **Mary Shelley** (1797–1851)
 

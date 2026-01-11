@@ -3,6 +3,7 @@ title: "Capítulo 10 — Firma"
 chapter: 10
 layout: chapter
 author: "Federico Ceballos Torres"
+editor: "Doctor (Asistente Editorial)"
 copyright: "© 2026 Federico Ceballos Torres. All Rights Reserved."
 license: "All rights reserved"
 language: "es"

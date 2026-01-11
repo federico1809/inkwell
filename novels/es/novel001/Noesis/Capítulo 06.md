@@ -68,7 +68,7 @@ Sus miradas se sostuvieron un segundo más de lo necesario. No era deseo en el s
 
 Esa noche, mientras el resto del equipo rotaba turnos, Lía sacó de debajo de su consola un cuaderno viejo, de tapas duras, manchado por la humedad. Lo abrió frente a Nanda sin decir nada.
 
-El croquis era perturbador por su precisión. Líneas que cruzaban el litoral, el cauce del río, los antiguos brazos secos, superpuestos con posiciones estelares que no correspondían al presente. No era una metáfora. Era una intersección.
+El croquis era perturbador por su precisión. Líneas que cruzaban el Litoral, el cauce del río, los antiguos brazos secos, superpuestos con posiciones estelares que no correspondían al presente. No era una metáfora. Era una intersección.
 
 —No lo dibujé ahora —dijo Lía—. Empecé hace años. Cuando todavía nadie hablaba de anomalías.
 

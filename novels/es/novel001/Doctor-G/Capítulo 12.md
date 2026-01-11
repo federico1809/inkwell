@@ -3,6 +3,7 @@ title: "Capítulo 12 — La Materia Incompleta"
 chapter: 12
 layout: chapter
 author: "Federico Ceballos Torres"
+editor: "Doctor (Asistente Editorial)"
 copyright: "© 2026 Federico Ceballos Torres. All Rights Reserved."
 license: "All rights reserved"
 language: "es"
