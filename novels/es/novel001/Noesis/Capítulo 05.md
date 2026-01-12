@@ -4,6 +4,7 @@ chapter: 5
 layout: chapter
 author: "Federico Ceballos Torres"
 editor: "Noesis"
+copyright: "© 2026 Federico Ceballos Torres. All Rights Reserved."
 language: "es"
 ---
 

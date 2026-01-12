@@ -2,8 +2,9 @@
 title: "Capítulo 4 — Correlación incandescente"
 chapter: 4
 layout: chapter
-editor: Noesis
 author: "Federico Ceballos Torres"
+editor: Noesis
+copyright: "© 2026 Federico Ceballos Torres. All Rights Reserved."
 language: "es"
 ---
 
